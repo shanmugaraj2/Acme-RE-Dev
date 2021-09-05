@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCdA0g1I8Uyqdj0UvPCpFGlIXdL8MiZPD5tz1y28fGG2bmmh+zbJkdVd53BdGfenBzW93JEmMUrM2gIkdbuQ9Q==",
+  "dgSpecHash": "CIqA0C7k3hsLAiLgTb1dYyk98vsIdn+jid6RZaQUNEtQxbZ8DzxgqZ78X4mLzxtcdwFvWuK6NFcojVefxlIbLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shanm\\Documents\\UiPath\\Acme RE Dev\\.local\\",
+  "projectFilePath": "C:\\Users\\shanm\\Documents\\UiPath\\Acme-RE-Dev\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\shanm\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\shanm\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
