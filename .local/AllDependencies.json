@@ -4021,9 +4021,9 @@
     "restore": {
       "projectUniqueName": "Acme RE Dev",
       "projectName": "Acme RE Dev",
-      "projectPath": "C:\\Users\\shanm\\Documents\\UiPath\\Acme RE Dev\\.local",
+      "projectPath": "C:\\Users\\shanm\\Documents\\UiPath\\Acme-RE-Dev\\.local",
       "packagesPath": "C:\\Users\\shanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shanm\\Documents\\UiPath\\Acme RE Dev\\.local"
+      "outputPath": "C:\\Users\\shanm\\Documents\\UiPath\\Acme-RE-Dev\\.local"
     },
     "frameworks": {
       "net461": {
